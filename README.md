@@ -47,7 +47,7 @@ This project combines **two synthetic HR datasets**:
    - I made light edits to adjust name data for realism.  
 
 2. **Hiring Data**  
-   - Sourced from Kaggle: *Employee Hiring Data* by Malsha.  
+   - Sourced from Kaggle: [*Employee Hiring Data*](https://www.kaggle.com/datasets/malsha/employee-hiring-data) by Malsha.  
    - My edits included:  
      - Added `bonus_offer`, `recruiting_channel`, `city`, and `state` columns.  
      - Cleaned inconsistencies and prepared data for Tableau integration.  
