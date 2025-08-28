@@ -90,8 +90,8 @@ This project combines **two synthetic HR datasets**:
 ## 📸 Dashboard Preview  
 
 <p align="center">
-  <img src="HR_Dashboard_Overview.png" alt="Workforce Overview" width="45%"/>
-  <img src="HR_Dashboard_Hiring.png" alt="Recruitment Analytics" width="45%"/>
+  <img src="images/HR_Dashboard_Overview.png" alt="Workforce Overview" width="45%"/>
+  <img src="images/HR_Dashboard_Hiring.png" alt="Recruitment Analytics" width="45%"/>
 </p>
 
 ---
