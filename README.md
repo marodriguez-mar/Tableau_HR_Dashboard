@@ -102,8 +102,8 @@ This project combines **two synthetic HR datasets**:
 - **Data Visualization**: Tableau (area charts, bar charts, funnel tables).  
 - **Storytelling with Data**: Framing HR metrics into a narrative for decision-makers.  
 - **Version Control & Documentation**: GitHub for dataset management and project transparency.  
-- **Measures & Calculated Fields**: Developed Tableau calculations to derive metrics such as termination rate, acceptance rate, and average time-to-fill.  
-
+- **Measures & Calculated Fields**: Developed Tableau calculations to derive metrics such as termination rate, acceptance rate, and average time-to-fill.
+- **Dashboard Design (Figma)**: Created a custom background in Figma for a polished and professional dashboard layout.  
 
 ---
 
