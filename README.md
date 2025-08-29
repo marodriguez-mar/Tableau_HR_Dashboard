@@ -113,6 +113,7 @@ This project combines **two synthetic HR datasets**:
 ├── data/
 │   ├── raw/                # Original Kaggle & Baraa datasets
 │   ├── processed/          # Cleaned & edited datasets
+├── images/                 # Screenshots of dashboard
 ├── notebooks/              # Python notebooks for data cleaning/processing
 ├── tableau/                # Packaged Tableau workbook (.twbx)
 ├── images/                 # Screenshots of dashboard
